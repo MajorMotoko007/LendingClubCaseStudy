@@ -15,11 +15,7 @@ Identification of such applicants using EDA is the aim of this case study.
 
 Perform an analysis to understand the driving factors (or driver variables)
 behind loan default, i.e.the variables which are strong indicators of default.  
-The company can utilise this knowledge for its portfolio and risk assessment. 
-
-```
-
- #### Step 1: Data Cleaning  
+The company can utilise this knowledge for its portfolio and risk assessment. #### Step 1: Data Cleaning  
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
 #### Step 4: Bivaraiate/Multivariate Analysis
